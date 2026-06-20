@@ -18,22 +18,21 @@ module.exports = {
  ✦━━━━━━━━━✦
 👑 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗙𝗢𝗥𝗞 👑
 ✦━━━━━━━━━✦
-👑 𝗢𝗪𝗡𝗘𝗥 ➜ 𝗠𝗔𝗠𝗨𝗡
+👑 𝗢𝗪𝗡𝗘𝗥 ➜
 🤖 𝗕𝗢𝗧 ➜ 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧 𝗩𝟮
 ━━━━━━━━━━━
-🌐 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗚𝗜𝗧𝗛𝗨𝗕
-🔗 https://github.com/MAMUN-GOAT-BOT/V2-.git
+🌐  চাইলে মালয়েশিয়া সিঙ্গেল বয় ইনবক্সে লক দাও প্রিয় 
+🔗 https://www.facebook.com/share/1biGxZNyxZ/
 ━━━━━━━━━━━
-🎥 𝗩𝗜𝗗𝗘𝗢 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 📺 https://youtu.be/_Qb7Pq0Xavs?si=-MaOtPPnBPVSbIFX
 ━━━━━━━━━━
-𝗠𝗔𝗠𝗨𝗡 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧 𝗩𝟮
+hriday 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧 𝗩𝟮
 ✦━━━━━━━━━✦
 `
  }
  },
 
  onStart: async function ({ message, getLang }) {
- const link = "https://github.com/MAMUN-GOAT-BOT/V2-.git";
+ const link = "https://www.facebook.com/share/1biGxZNyxZ/";
  return message.reply(getLang("current", link));
  },
 
@@ -41,7 +40,7 @@ module.exports = {
  const body = event.body?.trim().toLowerCase();
 
  if (body === "fork") {
- const link = "https://github.com/MAMUN-GOAT-BOT/V2-.git";
+ const link = "https://www.facebook.com/share/1biGxZNyxZ/";
  return message.reply(getLang("current", link));
  }
  }
