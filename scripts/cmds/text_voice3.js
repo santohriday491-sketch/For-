@@ -10,7 +10,7 @@ const controlFile = path.join(__dirname, "cache", "control.json");
 
 module.exports = {
   config: {
-    name: "text_voice",
+    name: "text_voice3",
     version: "5.0.0",
     author: "Farhan-Khan (🔒 Do Not Change)",
     countDown: 1,
