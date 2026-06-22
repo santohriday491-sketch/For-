@@ -23,7 +23,7 @@ module.exports = {
     // Bot trigger words
     const botVoices = [
       "https://files.catbox.moe/hhldox.mp3",
-      "https://files.catbox.moe/b5l6nz.mp3",
+      "https://files.catbox.moe/o5nb4q.mp3",
       "https://files.catbox.moe/gzq54t.mp3",
       "https://files.catbox.moe/uwg21p.mp3",
       "https://files.catbox.moe/x8ina4.mp3",
