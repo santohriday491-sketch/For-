@@ -1,12 +1,12 @@
-add your fb stat[
+[
 	{
 		"key": "datr",
 		"value": "48c0aoh6ug4bKLArMqtxDcKv",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.007Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "sb",
@@ -14,8 +14,8 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "locale",
@@ -23,8 +23,8 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "pas",
@@ -32,8 +32,8 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "ps_l",
@@ -41,8 +41,8 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "ps_n",
@@ -50,8 +50,8 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "c_user",
@@ -59,8 +59,8 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "xs",
@@ -68,8 +68,8 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "vpd",
@@ -77,34 +77,34 @@ add your fb stat[
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "fr",
-		"value": "01J4UxNT6hYSe2TOM.AWd950LhoI61vmtru3XGOrkd6Vlmu5WKvIVdTg_NReNM6-FRiyA.BqNMfj..AAA.0.0.BqOERW.AWev7Pfs1ov9wloSC5qiqu0-3Y8",
+		"value": "01J4UxNT6hYSe2TOM.AWdkVxBXj4uCKgMxLSjsVkUHJvHKshC_ERvISXzGuAPy2KpbA6k.BqNMfj..AAA.0.0.BqOKUV.AWfG5-lkRFQf9xHirYgo7asuR5o",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "fbl_st",
-		"value": "101738318%3BT%3A29701206",
+		"value": "101618583%3BT%3A29701619",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	},
 	{
 		"key": "wl_cbv",
-		"value": "v2%3Bclient_version%3A3195%3Btimestamp%3A1782072406",
+		"value": "v2%3Bclient_version%3A3195%3Btimestamp%3A1782097173",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-06-21T20:06:55.395Z",
-		"lastAccessed": "2026-06-21T20:06:55.395Z"
+		"creation": "2026-06-22T02:59:56.027Z",
+		"lastAccessed": "2026-06-22T02:59:56.027Z"
 	}
 ]
