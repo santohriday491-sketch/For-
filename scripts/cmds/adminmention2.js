@@ -61,8 +61,8 @@ module.exports = {
     const voices = [
       "https://files.catbox.moe/wfssgi.mp3",
       "https://files.catbox.moe/16r8u7.mp3",
-      "https://files.catbox.moe/cjsb64.mp3",
-      "https://files.catbox.moe/jzx39a.mp3"
+      "https://files.catbox.moe/pd8yn8.mp3",
+      "https://files.catbox.moe/eck54q.mp3"
     ];
 
     const voiceUrl = voices[Math.floor(Math.random() * voices.length)];
