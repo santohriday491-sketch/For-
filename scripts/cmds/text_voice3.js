@@ -76,11 +76,11 @@ module.exports = {
 
     // 🎵 Voice Map
     const voiceMap = {
-      "চুদি": "https://files.catbox.moe/ecgpak.mp4",
-      "cudi": "https://files.catbox.moe/ecgpak.mp4",
+      "গান": "https://files.catbox.moe/l0jhdq.mp3",
+      "ঘুমা": "https://files.catbox.moe/mofu8n.mp3",
       "chudi": "https://files.catbox.moe/ecgpak.mp4",
       "magi": "https://files.catbox.moe/ecgpak.mp4",
-      "মাগি": "https://files.catbox.moe/ecgpak.mp4",
+      "নাটেক": "https://files.catbox.moe/8w1wo5.mp3",
       "খানকি": "https://files.catbox.moe/ecgpak.mp4",
       "khanki": "https://files.catbox.moe/ecgpak.mp4",
       "farhan": "https://files.catbox.moe/tvpfee.mp3",
