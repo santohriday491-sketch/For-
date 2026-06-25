@@ -20,7 +20,7 @@ module.exports = {
 
     const textAudioMap = {
       "👍": "https://files.catbox.moe/2t6aly.mp4",
-      "chudi": "https://tmpfiles.org/dl/w6w8opOlnHxn/catbox_1782110639422.mp3",
+      "hi": "https://files.catbox.moe/2c1k79.mp3",
     };
 
     const key = body.trim().toLowerCase();
