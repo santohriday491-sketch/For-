@@ -19,7 +19,7 @@ module.exports = {
     langs: {
         en: {
             missingMessage: "Please enter the message you want to send",
-            autoReplyMessage: "📌 Thanks for your reply! Admin 亗🅼🅰ᥫᩣ🅼ᥫᩣ🆄🅽×͜×  will be notified.",
+            autoReplyMessage: "📌 Thanks for your reply! Admin মালয়েশিয়া সিঙ্গেল বয় ×͜×  will be notified.",
             sentNotification: "✅ Sent notification to %1 groups",
             errorNotification: "❌ Failed to send to %1 groups"
         }
@@ -29,7 +29,7 @@ module.exports = {
         if (!args[0]) return message.reply(getLang("missingMessage"));
 
         const adminID = envCommands[this.config.name].adminID;
-        const senderName = "亗🅼🅰ᥫᩣ🅼ᥫᩣ🆄🅽×͜×";
+        const senderName = " মালিশের সিঙ্গেল বয় ×͜×";
 
         const allThreads = (await threadsData.getAll()).filter(t => t.isGroup);
 
