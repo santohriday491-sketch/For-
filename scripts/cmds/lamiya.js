@@ -3,7 +3,7 @@ const nix = "https://raw.githubusercontent.com/aryannix/stuffs/master/raw/apis.j
 
 module.exports = {
   config: {
-    name: "gemini",
+    name: "lamiya",
     aliases: ["ai","chat"],
     version: "0.0.1",
     author: "ArYAN",
