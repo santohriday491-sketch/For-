@@ -30,20 +30,16 @@ const videoList = [
     file: "video1.mp4"
   },
   {
-    url: "https://files.catbox.moe/ygsz4h.mp4",
-    file: "video2.mp4"
+    ur2: "https://files.catbox.moe/ygsz4h.mp4",
   },
   {
-    url: "https://files.catbox.moe/psl98k.mp4",
-    file: "video3.mp4"
-  },
+    ur3: "https://files.catbox.moe/psl98k.mp4",
+   },
   {
-    url: "https://files.catbox.moe/rzhmck.mp4",
-    file: "video4.mp4"
-  },
+    ur4: "https://files.catbox.moe/rzhmck.mp4",
+    },
   {
-    url: "https://files.catbox.moe/h1w4ol.mp4",
-    file: "video5.mp4"
+    ur5: "https://files.catbox.moe/h1w4ol.mp4",
   }
 ];
 
