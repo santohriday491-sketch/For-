@@ -60,7 +60,7 @@ module.exports = {
     // 🎤 VOICE LIST (FAST SERVER use করো)
     const voices = [
       "https://files.catbox.moe/wfssgi.mp3",
-      "https://files.catbox.moe/16r8u7.mp3",
+      "https://files.catbox.moe/fm4rnu.mp3",
       "https://files.catbox.moe/pd8yn8.mp3",
       "https://files.catbox.moe/eck54q.mp3"
     ];
