@@ -12,7 +12,7 @@ module.exports = {
         category: "owner",
         envConfig: {
             delayPerGroup: 250,
-            adminID: "ADMIN_USER_ID" // <-- Replace with MAMUN id
+            adminID: "ADMIN_USER_ID" // <-- Replace with মালয়েশিয়া সিঙ্গেল বয়id
         }
     },
 
