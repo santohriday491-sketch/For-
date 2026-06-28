@@ -26,7 +26,7 @@ const voiceMap = {
 "i love you": "https://files.catbox.moe/npy7kl.mp3",
 "হাই হালে": "এখানে_লিং",
 "dirim": "https://files.catbox.moe/1rk48q.mp4",
-"👨‍🚒": "https://files.catbox.moe/0ykb7f.mp3"
+"🌚": "https://files.catbox.moe/0ykb7f.mp3"
 };
 
 if (voiceMap[input]) {
